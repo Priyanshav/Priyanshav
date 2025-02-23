@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyanshu-niet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-niet" height="30" width="40" /></a>
-<a href="https://instagram.com/priyanshuhihoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshuhihoon" height="30" width="40" /></a>
+<a href="https://www.instagram.com/celibate_priyanshu?igsh=MWlsbm9oNGZoNnBpMg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshuhihoon" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/priyanshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="priyanshav" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshav" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/hWtzGDVC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/hWtzGDVC" height="30" width="40" /></a>
