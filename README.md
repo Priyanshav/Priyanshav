@@ -1,6 +1,6 @@
 <h1 align="center">Hello There 👋, I'm Priyanshu Kumar.</h1>
 <h3 align="center">A passionate coder and believer.</h3>
-<img align="right" alt="Guts" width="800" src="https://wallpapers-clan.com/wp-content/uploads/2024/08/berserk-guts-red-glowing-eye-gif-desktop-wallpaper-preview.gif">
+<img align="right" alt="Guts" width="500" src="[https://wallpapers-clan.com/wp-content/uploads/2024/08/berserk-guts-red-glowing-eye-gif-desktop-wallpaper-preview.gif](https://i.pinimg.com/originals/2d/82/d9/2d82d901304ed14d0ea5d44c6d12dbac.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshav&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshav" /> </p>
 
