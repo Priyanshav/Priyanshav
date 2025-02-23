@@ -1,6 +1,6 @@
 <h1 align="center">Hello There 👋, I'm Priyanshu Kumar.</h1>
 <h3 align="center">A passionate coder and believer.</h3>
-<img align="left" alt="Guts" width="500" src="https://wallpapers-clan.com/wp-content/uploads/2024/08/berserk-guts-red-glowing-eye-gif-desktop-wallpaper-preview.gif">
+<img align="left" alt="Guts" width="600" src="https://wallpapers-clan.com/wp-content/uploads/2024/08/berserk-guts-red-glowing-eye-gif-desktop-wallpaper-preview.gif">
 <img align="right" alt="Vagabond" width="500" src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2022/04/vagabond-musashi-header-gif.gif?fit=498%2C373&ssl=1">
 
 
