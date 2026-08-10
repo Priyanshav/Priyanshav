@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://wallpapers-clan.com/wp-content/uploads/2024/08/berserk-guts-red-glowing-eye-gif-desktop-wallpaper-preview.gif" width="420" alt="Guts" />
-  <img src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2022/04/vagabond-musashi-header-gif.gif?fit=498%2C373&ssl=1" width="420" alt="Vagabond" />
+  <img src="https://wallpapers-clan.com/wp-content/uploads/2024/08/berserk-guts-red-glowing-eye-gif-desktop-wallpaper-preview.gif" width="600" alt="Guts" />
 </p>
 
 <p align="center">
@@ -24,7 +23,6 @@
 - 🌱 Currently learning **SpringBoot, DSA, Computer Networks, SQL, Docker and System Design**
 - 💬 Ask me about **my projects, ranging from Cybersecurity to AI**
 - 🌐 Check out my portfolio: **[Priyanshav.onrender.com](https://Priyanshav.onrender.com/)**
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/priyanshu-niet/)**
 - ⚡ Fun fact: **I like exploring multiple technologies and I'm a quick learner**
 
 ---
@@ -65,6 +63,12 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="Cybersecurity"/>
 <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
+<img src="https://img.shields.io/badge/Cryptography-4B0082?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Cryptography"/>
+<img src="https://img.shields.io/badge/Network%20Security-003366?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Security"/>
+<img src="https://img.shields.io/badge/Digital%20Forensics-8B0000?style=for-the-badge&logo=magnifyingglass&logoColor=white" alt="Digital Forensics"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/John%20The%20Ripper-2C2C2C?style=for-the-badge&logo=hackthebox&logoColor=white" alt="John The Ripper"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
 </p>
 
 ---
@@ -100,8 +104,6 @@
   <img src="https://raw.githubusercontent.com/Priyanshav/Priyanshav/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
-> ⚠️ The snake needs a one-time GitHub Action setup — see `snake.yml` below. Until that runs once, this image will show broken.
-
 ---
 
 ### 🌆 Contribution Skyline
@@ -109,8 +111,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Priyanshav/Priyanshav/main/github-metrics.svg" alt="isometric contribution skyline"/>
 </p>
-
-> ⚠️ Needs a one-time GitHub Action setup — see `metrics.yml` below. Until that runs once, this image will show broken.
 
 ---
 
