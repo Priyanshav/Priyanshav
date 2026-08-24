@@ -39,7 +39,7 @@
 <a href="https://takeuforward.org/profile/Priyanshav" target="_blank">
   <img src="https://img.shields.io/badge/TakeUForward-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="TakeUForward"/>
 </a>
-<a href="https://Priyanshav.onrender.com/" target="_blank">
+<a href="https://priyanshukumar-rouge.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://discord.gg/hWtzGDVC" target="_blank">
