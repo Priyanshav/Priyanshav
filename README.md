@@ -22,7 +22,7 @@
 
 - 🌱 Currently learning **SpringBoot, DSA, Computer Networks, SQL, Docker and System Design**
 - 💬 Ask me about **my projects, ranging from Cybersecurity to AI**
-- 🌐 Check out my portfolio: **[Priyanshav.onrender.com](https://Priyanshav.onrender.com/)**
+- 🌐 Check out my portfolio: **[priyanshukumar-rogue.vercel.app](https://priyanshukumar-rouge.vercel.app/)**
 - ⚡ Fun fact: **I like exploring multiple technologies and I'm a quick learner**
 
 ---
