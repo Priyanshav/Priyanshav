@@ -21,7 +21,7 @@ jobs:
         with:
           username: Priyanshav
           output_path: trophy.svg
-          token: ${{ secrets.TROPHY_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN1 }}
           theme: tokyonight
 
       - name: Commit trophy
