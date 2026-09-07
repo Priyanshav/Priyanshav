@@ -76,16 +76,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Priyanshav&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Priyanshav stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshav&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img height="180" src="https://github-stats-extended-frontend-two-iota.vercel.app/api?username=Priyanshav&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Priyanshav GitHub Stats"/>
+  <img height="180" src="https://github-stats-extended-frontend-two-iota.vercel.app/api/top-langs?username=Priyanshav&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Priyanshav Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshav&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshav&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshav&theme=tokyonight&hide_border=true" alt="Priyanshav GitHub Streak"/>
 </p>
 
 ---
@@ -93,7 +89,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshav&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph-three-rosy.vercel.app/graph?username=Priyanshav&theme=tokyo-night&hide_border=true&area=true" alt="Priyanshav Activity Graph"/>
 </p>
 
 ---
